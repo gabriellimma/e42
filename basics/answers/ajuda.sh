@@ -11,5 +11,5 @@ if [[ "$1" = "ssh" ]]; then
         alterações e o envio de dados sejam realizados
         da melhor forma."
 else
-    echo "o conteúdo sobre $1 não foi encontrado"
+    echo "o conteúdo sobre \"$1\" não foi encontrado"
 fi 
